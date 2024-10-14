@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Vikhyath Kothamasu"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Vikhyath Kothamasu"
 description              : "personal description"
 url                      : https://vikhyath-vec.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
