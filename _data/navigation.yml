@@ -6,13 +6,16 @@
 
 main:
   - title: "Research"
-    url: /research/
-
-  - title: "Talks"
-    url: /talks/    
+    url: /research/   
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Talks"
+    url: /talks/   
     
   - title: "Portfolio"
     url: /portfolio/
