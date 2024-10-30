@@ -11,12 +11,12 @@ redirect_from:
 ### Multimodal Learning for Astronomical Classification
 
 * Designed multimodal algorithms based on CLIP and Swin Transformer architectures to classify faint & compact galaxies, stars, and quasars.
-* Integrated five-channel image data with photometric features to enhance feature representation and improve classification robustness.
+* Integrated five-channel image data with photometric features to improve feature representation and improve classification robustness.
 
 ### Adversarial Machine Learning for Autonomous Vehicles
 
 * Explored and tested over 10 unique physical adversarial attack strategies on image classification models used in autonomous vehicles.
-* Developed targeted defense mechanisms, enhancing model robustness in simulated autonomous environments.
+* Developed targeted defense mechanisms, improving model robustness in simulated autonomous environments.
 
 ### 3D Multi-Object Tracking
 
@@ -52,7 +52,7 @@ redirect_from:
 *Natural Language Processing*
 
 * Developed a unique news-image captioning model that leverages CLIP’s image and text encoders.
-* Enhanced caption accuracy by incorporating named entities and knowledge prompts, producing context-rich captions using a multimodal large language model.
+* Improved caption accuracy by incorporating named entities and knowledge prompts, producing context-rich captions using a multimodal large language model.
 
 ### Outlier Detection
 *Applications of Markov Chains in Computing*
@@ -84,3 +84,56 @@ redirect_from:
 * Designed from scratch using Flex and Bison
 
 [Code](https://github.com/IITH-COMPILERS2/compilers-2-project-team-4-aug22){: .btn}
+
+### HRS Attack Simulation
+*Network Security*
+
+Simulated HTTP Request Smuggling attacks with novel detection and mitigation techniques.
+
+[Code](https://github.com/Vikhyath-vec/request-smuggling){: .btn}
+
+## Developer Projects
+
+### Trumio's AI-Driven Testing & Mentorship Platform
+
+* Created an alumni mentoring and peer-testing platform featuring AI-powered tester matchmaking, explainable recommendations, and AI-generated test suites.
+* Developed a comprehensive business plan for the same.
+
+### Sentiment Analysis
+
+* Built an alumni mentoring and peer-testing platform with AI-powered tester matchmaking.
+* Integrated explainable recommendations for tester assignments and AI-generated test suites.
+
+[Code](https://github.com/Vikhyath-vec/sentidev){: .btn}
+
+### GrowSimplee’s Route Planning for Optimized On-Time Delivery
+
+* Delivery Route Optimization Task based on Package characteristics and delivery points.
+* Implemented a DNN in conjunction with a weight sensor to determine the dimensions of object from image
+
+[Code](https://github.com/Aayush2492/grow-simplee-rider-admin-dashboard){: .btn}
+
+### Cryptex
+
+* Developed and optimized the Cryptex (Online Treasure Hunt) platform, integrating advanced admin features for smooth moderation and supporting a global user base.
+
+[Code](https://github.com/macdeath-AA/cryptex){: .btn}
+
+### Campus Portal
+
+* Developed a comprehensive portal for the college community, featuring cab-sharing, marketplace, lost & found, and other resources for campus connectivity.
+
+[Code](https://github.com/LambdaIITH/cab-sharing-portal/){: .btn}
+
+### TEDx IIT Hyderabad
+
+* Website Development for TEDx chapter of IIT Hyderabad for the year 2021 - 2022.
+* Developed using Jekyll.
+
+[Code](https://github.com/TEDxIITHyderabad){: .btn} [Webpage](https://tedxiithyderabad.iith.ac.in/){: .btn}
+
+### EBSB IIT Hyderbad
+
+* Website Development for EBSB for the year 2023-2024.
+
+[Code](https://github.com/EBSB-IITH){: .btn} [Webpage](https://ebsb.iith.ac.in/){: .btn}
