@@ -41,7 +41,7 @@ redirect_from:
 ## Course Projects
 
 ### Personalized Explainable Recommendations
-*Explainability in ML*
+*Explainability in ML*, AI5120
 
 * Developed a transformer-based recommendation system combining Personalized Prompt Learning with Knowledge Graph Attention Networks (KGAT) for improved explainability.
 * Enabled natural language recommendations by integrating user-item interactions, providing both accuracy and transparency in personalized suggestions.
@@ -49,20 +49,20 @@ redirect_from:
 <a href="https://github.com/Vikhyath-vec/VikAmanXML" target="_blank" class="btn">Code</a>
 
 ### News-Image Captioning
-*Natural Language Processing*
+*Natural Language Processing*, CS5803
 
 * Developed a unique news-image captioning model that leverages CLIP’s image and text encoders.
 * Improved caption accuracy by incorporating named entities and knowledge prompts, producing context-rich captions using a multimodal large language model.
 
 ### Outlier Detection
-*Applications of Markov Chains in Computing*
+*Applications of Markov Chains in Computing*, CS5150
 
 * Developed novel method leveraging Absorbing Markov Chains for saliency-based outlier detection.
 
 <a href="https://github.com/shreyak5/outlier-detection-using-amc" target="_blank" class="btn">Code</a>
 
 ### Exploring Neural Network Robustness through Benford's Law
-*Data Science Analysis*
+*Data Science Analysis*, EP4130
 
 * Investigated the relationship between Neural Network parameter distributions and generalization using Benford’s Law (BL) as a naturalness measure.
 * Introduced the Model Enthalpy (MLH) metric to assess closeness to BL, showing its strong correlation with Validation Accuracy and robustness properties.
@@ -71,14 +71,14 @@ redirect_from:
 <a href="https://github.com/Vikhyath-vec/Adversarial-Neural-Networks-Benfords-Law" target="_blank" class="btn">Code</a>
 
 ### Automated Postal Record-Keeping
-*Software Development Fundamentals*
+*Software Engineering*, CS4443
 
 * Developed a text recognition system that replaced manual entry, reducing daily bookkeeping time by 85%.
 
 <a href="https://github.com/GouthamSai22/pras" target="_blank" class="btn">Code</a>
 
 ### Tangent - A vector graphics programming language
-*Compilers*
+*Compilers*, CS3423
 
 * A statically typed, object-oriented language built to create complex vector graphics like Bézier curves and polygons directly on SVGs.
 * Designed from scratch using Flex and Bison
@@ -86,7 +86,7 @@ redirect_from:
 <a href="https://github.com/IITH-COMPILERS2/compilers-2-project-team-4-aug22" target="_blank" class="btn">Code</a>
 
 ### HRS Attack Simulation
-*Network Security*
+*Network Security*, CS6903
 
 Simulated HTTP Request Smuggling attacks with novel detection and mitigation techniques.
 
