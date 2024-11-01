@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello there! I'm Vikhyath. I recently graduated from [IIT Hyderabad](https://www.iith.ac.in/) with a BTech in Computer Science and Engineering. Currently, I am working as an Associate Member of Technical Staff (AMTS) at [Salesforce](https://www.salesforce.com/in/), where I am part of the Contract Lifecycle Management (CLM) team.
+Hello there! I'm Vikhyath. I recently graduated from <a href="https://www.iith.ac.in/" target="_blank">IIT Hyderabad</a> with a BTech in Computer Science and Engineering. Currently, I am working as an Associate Member of Technical Staff (AMTS) at <a href="https://www.salesforce.com/in/" target="_blank">Salesforce</a>, where I am part of the Contract Lifecycle Management (CLM) team.
 
 ## Research Interests:
 My research and academic interests lie in the domain of Computer Vision, Machine Learning, and Data-driven Astronomy. I'm particularly interested in research areas such as Multimodal Learning, Transformer-based architectures, Explainability in Machine Learning, and Transfer learning. I aim to address challenges like handling out-of-distribution data and improving model robustness in applications such as astronomical image classification, autonomous systems, and AI interpretability.
