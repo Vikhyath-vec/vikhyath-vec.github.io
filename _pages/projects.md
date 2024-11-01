@@ -46,7 +46,7 @@ redirect_from:
 * Developed a transformer-based recommendation system combining Personalized Prompt Learning with Knowledge Graph Attention Networks (KGAT) for improved explainability.
 * Enabled natural language recommendations by integrating user-item interactions, providing both accuracy and transparency in personalized suggestions.
 
-<a href="https://github.com/Vikhyath-vec/VikAmanXML" target="_blank" class=".btn">Code</a>
+<a href="https://github.com/Vikhyath-vec/VikAmanXML" target="_blank" class="btn">Code</a>
 
 ### News-Image Captioning
 *Natural Language Processing*
